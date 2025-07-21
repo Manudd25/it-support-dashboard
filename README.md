@@ -1,4 +1,6 @@
 🛠️ IT Support Dashboard
+
+
 A role-based ticket management system built with React, Firebase, and Tailwind CSS. Admins can manage all submitted tickets, while employees can view, edit, or delete their own. Fully responsive and secure using Firestore rules.
 
 🔍 Features
